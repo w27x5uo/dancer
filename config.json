@@ -1,0 +1,8 @@
+{
+  "local_address": "127.0.0.1",
+  "scheme": "ws",
+  "remote_port": 8080,
+  "password": "`3;zx0/b:f)rm^*tyRSOatbt$_]f2WB#",
+  "timeout": 600,
+  "method": "rc4-md5",
+}
