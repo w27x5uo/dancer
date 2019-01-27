@@ -1,5 +1,5 @@
 {
-  "local_address": "127.0.0.1",
+  "local_address": "0.0.0.0",
   "scheme": "ws",
   "remote_port": 8080,
   "password": "`3;zx0/b:f)rm^*tyRSOatbt$_]f2WB#",
