@@ -77,7 +77,7 @@ const server = http.createServer(function (req, res) {
 		res.writeHead(200, {
 			'Content-Type': 'text/plain'
 		});
-		res.end('DANCEMAN');
+		res.end('dancerist');
 	});
 const wss = new WebSocketServer({
 		server
